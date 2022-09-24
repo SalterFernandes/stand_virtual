@@ -100,4 +100,5 @@
                     <option value="400 000km">400000</option>
                 </select>
             </div>
-        </div>
+            <a class="btn btn-primary mt-5" href="ROTA" role="button">Pesquisa</a> 
+</div>
