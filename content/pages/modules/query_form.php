@@ -36,7 +36,7 @@
             </select>
             </div>
             <div class="col-6 mt-2">
-                <label for="cars">Preços</label>
+                <label for="cars">Marcas</label>
                 <select class="form-select" aria-label="precos">
                     <option value="volvo" selected disabled hidden>Marca</option>
                     <option value="volvo">BMW</option>
@@ -90,14 +90,14 @@
             <div class="col-6 mt-2">
                 <label for="cars">Kms</label>
                 <select class="form-select" aria-label="kms">
-                    <option value="50 000km"></option>
-                    <option value="100 000km"></option>
-                    <option value="150 000km"></option>
-                    <option value="200 000km"></option>
-                    <option value="250 000km"></option>
-                    <option value="300 000km"></option>
-                    <option value="350 000km"></option>
-                    <option value="400 000km"></option>
+                    <option value="50 000km">50000</option>
+                    <option value="100 000km">100000</option>
+                    <option value="150 000km">150000</option>
+                    <option value="200 000km">200000</option>
+                    <option value="250 000km">250000</option>
+                    <option value="300 000km">300000</option>
+                    <option value="350 000km">350000</option>
+                    <option value="400 000km">400000</option>
                 </select>
             </div>
         </div>
