@@ -13,3 +13,12 @@
 .fa-cart-shopping:hover{
     color:grey;
 }
+.card-img-top{
+    height: 224px ;
+}
+.card-title{
+    height: 72px ;
+}
+.card-body > p{
+    height: 72px ;
+}

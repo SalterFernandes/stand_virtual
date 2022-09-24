@@ -17,6 +17,8 @@
     <div class="row mt-5">
         <?php include('modules/anuncios.php'); ?>
     </div>
+
+    <?php include('modules/banners.php'); ?>
 </div>
 
 
