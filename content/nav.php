@@ -11,10 +11,10 @@
           <a class="nav-link active" aria-current="page" href="index.php?p=inicio">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php?p=produtos">Carros</a>
+          <a class="nav-link" href="index.php?p=carros">Carros</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php?p=contacto">Contactos</a>
+          <a class="nav-link" href="index.php?p=contactos">Contactos</a>
         </li>
       </ul>
       <i class="fa-solid fa-circle-half-stroke mx-5" onclick="darkmode()"></i>
