@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-light bg-light .ml-auto">
   <div class="container-fluid">
     <a class="navbar-brand" href="#"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -6,23 +6,20 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <img src="https://statics.standvirtual.com/optimus-storage/a/carspt/images/logo.svg" width="100px" alt="Logo">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <ul class="navbar-nav d-flex justify-content-end">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.php?p=inicio">Home</a>
+          <a class="nav-link" href="index.php?p=carros">Carros Elétricos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php?p=carros">Carros</a>
+          <a class="nav-link" href="index.php?p=carros">Carros Novos</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php?p=contactos">Contactos</a>
         </li>
+        <li>
+        <a class="b1 btn btn-light" href="ROTA" role="button"> <svg width="1em" height="1em" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="ooa-n8as73"><path d="M20 11.042h-7V4l-1-1-1 1v7.042H4l-1 1 1 1h7V20l1 1 1-1v-6.958h7l1-1-1-1z" fill="currentColor" fill-rule="evenodd"></path></svg>Pesquisa</a> 
+        </li>
       </ul>
-      <i class="fa-solid fa-circle-half-stroke mx-5" onclick="darkmode()"></i>
-      <a href="index.php?p=carrinho"><i class="fa-solid fa-cart-shopping mx-5"></i></a>
-      <form class="d-flex" action="index.php" method="get">
-        <input name="pesquisa" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
     </div>
   </div>
 </nav>
