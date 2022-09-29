@@ -1,4 +1,4 @@
-<div class="col-lg-2">
+<div class="col-sm-6 col-md-4 col-lg-2 col-xl-2 mt-2">
             <div class="card">
             <img src="https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJ5OG1jZHRhbjB5cDMtU1REVlRMUFQiLCJ3IjpbeyJmbiI6IjZtZ2p3bHA3a2dkYjItU1REVlRMUFQiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.wedPwuMoZ_8sE9TkaI95uln2D8K1YzCdVC7b2g0xR0k/image;s=320x240" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -8,7 +8,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-2">
+        <div class="col-sm-6 col-md-4 col-lg-2 col-xl-2 mt-2">
         <div class="card">
             <img src="https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJneDB2bDQ5cno5dDEtU1REVlRMUFQiLCJ3IjpbeyJmbiI6IjZtZ2p3bHA3a2dkYjItU1REVlRMUFQiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.wxp26RCr-7xsi1QAxD2uvZEn-tfJATVhbPsIzUPM1jk/image;s=320x240" class="card-img-top" alt="...">
             <div class="card-body">
@@ -18,7 +18,7 @@
             </div>
         </div>
         </div>
-        <div class="col-lg-2">
+        <div class="col-sm-6 col-md-4 col-lg-2 col-xl-2 mt-2">
             <div class="card">
                 <img src="https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjAxdTlqMXFwMHV3cTMtU1REVlRMUFQiLCJ3IjpbeyJmbiI6IjZtZ2p3bHA3a2dkYjItU1REVlRMUFQiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.ximq4h8QzSG9e6bBC7iZspdFBKpnD_utThDex-cj1Yw/image;s=320x240" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -28,7 +28,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-2">
+        <div class="col-sm-6 col-md-4 col-lg-2 col-xl-2 mt-2">
             <div class="card">
                 <img src="https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN2ODM0Zjd2YTRxczEtU1REVlRMUFQiLCJ3IjpbeyJmbiI6IjZtZ2p3bHA3a2dkYjItU1REVlRMUFQiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.W2D3oY1Gy0EgvYHPX575tADKgIFtXzQPDgsChVAndyQ/image;s=320x240" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -38,7 +38,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-2">
+        <div class="col-sm-6 col-md-4 col-lg-2 col-xl-2 mt-2">
             <div class="card">
             <img src="https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlxdDQ3YTVkc3NkZjItU1REVlRMUFQiLCJ3IjpbeyJmbiI6IjZtZ2p3bHA3a2dkYjItU1REVlRMUFQiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.vLnQ0kTcM9IMhjPpKbdUf8iW1lAED3mxgYQYIapigU4/image;s=320x240" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -48,7 +48,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-2">
+        <div class="col-sm-6 col-md-4 col-lg-2 col-xl-2 mt-2">
             <div class="card">
             <img src="https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imo4ZXQxbHFiOXZhNi1TVERWVExQVCIsInciOlt7ImZuIjoiNm1nandscDdrZ2RiMi1TVERWVExQVCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.OIye3MYAv_NX_1n5Ykfy5N5gwO7LanwPD0cC7lBzgo0/image;s=320x240" class="card-img-top" alt="...">
                 <div class="card-body">
