@@ -23,7 +23,7 @@
     height: 72px ;
 }
 
-label {
+.label-style {
     font-weight: bold;
     font-size: 80%;
 }

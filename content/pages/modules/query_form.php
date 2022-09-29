@@ -1,6 +1,6 @@
 <div class="row">
     <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-2">
-        <label for="cars">Segmento</label>
+        <label for="cars" class="label-style">Segmento</label>
         <select class="form-select" aria-label="segmentos">
                 <option value="volvo" selected disabled hidden>Segmento</option>
                 <option value="volvo">Cabrio</option>
@@ -13,7 +13,7 @@
         </select>
     </div>
     <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-2">
-        <label for="cars">Marcas</label>
+        <label for="cars" class="label-style">Marcas</label>
         <select class="form-select" aria-label="precos">
             <option value="volvo" selected disabled hidden>Marca</option>
             <option value="volvo">BMW</option>
@@ -34,7 +34,7 @@
     </div>
 
     <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-2">
-        <label for="cars">Modelos</label>
+        <label for="cars" class="label-style">Modelos</label>
         <select class="form-select" aria-label="modelos">
             <option selected>Modelo</option>
             <option value="1">116</option>
@@ -45,7 +45,7 @@
         </select>
     </div>
     <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-2">
-        <label for="cars">Sub-modelos</label>
+        <label for="cars" class="label-style">Sub-modelos</label>
         <select class="form-select" aria-label="sub-modelos">
             <option selected>Sub-modelo</option>
             <option value="1">114</option>
@@ -57,7 +57,7 @@
     </div>
 
     <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3 mt-2">
-    <label for="precos">Preço</label>
+    <label for="precos" class="label-style">Preço</label>
         <select id="precos"class="form-select" aria-label="precos" name="preco1">
             <option selected>de</option>
             <option value="250">250 EUR</option>
@@ -90,7 +90,7 @@
     </div>
 
     <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3 mt-2">
-    <label for="cars">Ano</label>
+    <label for="cars" class="label-style">Ano</label>
         <select class="form-select" aria-label="anos">
             <option value="">De</option>
             <option value="">2020</option>
@@ -113,7 +113,7 @@
     </div>
 
     <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-2">
-        <label for="cars">Combustiveis</label>
+        <label for="cars" class="label-style">Combustiveis</label>
         <select class="form-select" aria-label="combustiveis">
             <option value="">Combustivel</option>
             <option value="">Diesel</option>
@@ -126,7 +126,7 @@
 
     <!-- Parte que o rafael tem de apagar -->
     <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3 mt-2">
-        <label for="cars" class="bold">Quilómetros</label>
+        <label for="cars" class="label-style" >Quilómetros</label>
         <select class="form-select" aria-label="kms">
             <option selected>de</option>
             <option value="50 000km">5 0000 km</option>
@@ -140,7 +140,7 @@
         </select>
     </div>
     <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3 mt-2">
-        <label for="precos" ></label>
+        <label for="precos"></label>
         <select id="precos"class="form-select" aria-label="precos" name="preco2">
             <option selected>até</option>
             <option value="50 000km">5 0000 km</option>
@@ -161,5 +161,4 @@
         <a class="btn btn-danger mt-3 form-control" href="ROTA" role="button">VER 30 000 ANUNCIOS</a> 
     </div>
 
-    teste
 </div>
