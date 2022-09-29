@@ -6,6 +6,7 @@
         </div>
         <div class="col-lg-6">
             <?php include('modules/oportunity_card.php'); ?>
+            <?php include('modules/oportunity_card.php'); ?>
         </div>
     </div>
 
