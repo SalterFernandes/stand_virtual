@@ -6,7 +6,6 @@
         </div>
         <div class="col-lg-6">
             <?php include('modules/oportunity_card.php'); ?>
-            <?php include('modules/oportunity_card.php'); ?>
         </div>
     </div>
 
@@ -18,8 +17,6 @@
     <div class="row mt-5">
         <?php include('modules/anuncios.php'); ?>
     </div>
-
-    <?php include('modules/banners.php'); ?>
 </div>
 
 

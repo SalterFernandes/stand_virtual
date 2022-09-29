@@ -1,28 +1,28 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-light bg-light .ml-auto">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#"></a>
+    <a class="navbar-brand" href="/"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <img src="https://statics.standvirtual.com/optimus-storage/a/carspt/images/logo.svg" width="100px" alt="Logo">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <a href="/"> <img src="https://statics.standvirtual.com/optimus-storage/a/carspt/images/logo.svg" width="100px" alt="Logo"></a>
+      <ul class="navbar-nav d-flex justify-content-end">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.php?p=inicio">Home</a>
+          <a class="nav-link" href="index.php?p=carros">Carros Elétricos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php?p=carros">Carros</a>
+          <a class="nav-link" href="index.php?p=carros">Carros Novos</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php?p=contactos">Contactos</a>
         </li>
       </ul>
-      <i class="fa-solid fa-circle-half-stroke mx-5" onclick="darkmode()"></i>
-      <a href="index.php?p=carrinho"><i class="fa-solid fa-cart-shopping mx-5"></i></a>
-      <form class="d-flex" action="index.php" method="get">
-        <input name="pesquisa" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
     </div>
+      <div class="float-right">
+          <form class="d-flex">
+              <input name="pesquisa" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <a href="/index.php?p=pesquisa" class="btn btn-outline-success" type="submit">Search</a>
+          </form>
+      </div>
   </div>
 </nav>
