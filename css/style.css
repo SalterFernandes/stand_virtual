@@ -14,6 +14,17 @@
     color:grey;
 }
 
+.card-img-top{
+    height: 224px ;
+}
+.card-title{
+    height: 72px ;
+}
+.card-body {
+    height: 72px ;
+}
+
+
 .navbar-nav
 {
     left: 0px;
