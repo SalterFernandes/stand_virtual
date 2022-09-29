@@ -5,6 +5,8 @@ if(isset($_GET['p'])){
         include('content/pages/inicio.php');
     else if($p == "destaques")
         include('content/pages/destaques.php');
+    else if($p == "resultados")
+        include('content/pages/resultados.php');
     else if($p == "pesquisa")
         include('content/pages/pesquisa.php');
     else
@@ -12,6 +14,6 @@ if(isset($_GET['p'])){
 }else if(isset($_GET['pesquisa'])){
     include('content/pages/pesquisa.php');
 }else{
-    include('content/pages/inicio.php');
+    include('content/pages/pesquisa.php');
 }
 ?>
