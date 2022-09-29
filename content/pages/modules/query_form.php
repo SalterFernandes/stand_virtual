@@ -125,7 +125,7 @@
     </div>
 
     <!-- Parte que o rafael tem de apagar -->
-    <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3 mt-2">
+    <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3 mt-2">
         <label for="cars" class="label-style" >Quilómetros</label>
         <select class="form-select" aria-label="kms">
             <option selected>de</option>
@@ -139,7 +139,7 @@
             <option value="400 000km">40 0000 km</option>
         </select>
     </div>
-    <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3 mt-2">
+    <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3 mt-2">
         <label for="precos"></label>
         <select id="precos"class="form-select" aria-label="precos" name="preco2">
             <option selected>até</option>
@@ -154,10 +154,10 @@
         </select>
     </div>
 
-    <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-2">
+    <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-2">
         <a class="btn btn-outline-secondary text-dark fw-bold mt-3 form-control border-0" href="ROTA" role="button"><i class="bi bi-sliders"></i>&nbsp Pesquisa Avançada</a> 
     </div>
-    <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-2 mb-3">
+    <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-2 mb-3">
         <a class="btn btn-danger mt-3 form-control" href="ROTA" role="button">VER 30 000 ANUNCIOS</a> 
     </div>
 
