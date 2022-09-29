@@ -11,7 +11,7 @@
                 <option value="3">Nome Ascendente</option>
                 <option value="4">Nome Descendente</option>
                 <option value="4">Kms Ascendente</option>
-                <option value="4">Nome Descendente</option>
+                <option value="4">Kms Descendente</option>
             </select>
         </div>
     </div>
