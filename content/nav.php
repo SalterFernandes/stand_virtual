@@ -8,7 +8,7 @@
         <a href="/"> <img src="https://statics.standvirtual.com/optimus-storage/a/carspt/images/logo.svg" width="100px" alt="Logo"></a>
       <ul class="navbar-nav d-flex justify-content-end">
         <li class="nav-item">
-          <a class="nav-link" href="index.php?p=carros">Carros Elétricos</a>
+          <a class="nav-link" href="index.php?p=destaques">Destaques</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php?p=carros">Carros Novos</a>
