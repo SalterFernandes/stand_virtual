@@ -5,4 +5,5 @@
                 <p class="card-text">2018 . 35.000 kms . Diesel . Outubro . 194 cv </p>
                 <h5 class="card-title2 text-danger">55 990€</h5>
             </div>
+            
         </div>
